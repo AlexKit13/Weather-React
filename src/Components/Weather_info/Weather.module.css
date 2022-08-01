@@ -1,0 +1,12 @@
+.info_box {
+    text-align: left;
+    padding: 20px 0;
+    color: whitesmoke;
+}
+
+.info_box p {
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    padding: 10px 0;
+}

@@ -1,0 +1,31 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-family: "Times New Roman";
+}
+
+.wrapper {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://images.wallpaperscraft.ru/image/single/gorizont_gory_priroda_ozero_derevya_86101_1920x1080.jpg");
+}
+
+.container {
+    display: block;
+    border: 1px solid #6e6e6e;
+    grid-gap: 5px;
+    position: absolute;
+    box-shadow: 0px 2px 50px -10px rgb(18, 73, 100);
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50px 20px 100px 20px;
+    background: rgba(147, 206, 222, 1);
+    background: -moz-linear-gradient(left, rgba(147, 206, 222, 1) 0%, rgba(117, 189, 209, 1) 28%, rgba(73, 165, 191, 1) 54%, rgba(73, 165, 191, 1) 100%);
+    background: -webkit-linear-gradient(left, rgba(147, 206, 222, 1) 0%, rgba(117, 189, 209, 1) 28%, rgba(73, 165, 191, 1) 54%, rgba(73, 165, 191, 1) 100%);
+    background: -o-linear-gradient(left, rgba(147, 206, 222, 1) 0%, rgba(117, 189, 209, 1) 28%, rgba(73, 165, 191, 1) 54%, rgba(73, 165, 191, 1) 100%);
+    background: -ms-linear-gradient(left, rgba(147, 206, 222, 1) 0%, rgba(117, 189, 209, 1) 28%, rgba(73, 165, 191, 1) 54%, rgba(73, 165, 191, 1) 100%);
+    background: linear-gradient(to right, rgba(147, 206, 222, 1) 0%, rgba(117, 189, 209, 1) 28%, rgba(73, 165, 191, 1) 54%, rgba(73, 165, 191, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#93cede', endColorstr='#49a5bf', GradientType=1);
+}

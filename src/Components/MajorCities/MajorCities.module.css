@@ -1,0 +1,9 @@
+.target {
+    display: inline-flex;
+    width: 180px;
+    padding: 10px 0px;
+    cursor: pointer;
+    color: whitesmoke;
+    text-decoration: underline;
+    -webkit-user-select: none;
+}

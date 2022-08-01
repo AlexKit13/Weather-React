@@ -1,0 +1,28 @@
+
+
+.input {
+    color: #777;
+    width: 376px;
+    border: 1px solid #abadb3;
+    padding: 2px;
+    font-size: 17px;
+    height: 31px;
+    border-radius: 5px;
+}
+
+.btn {
+    width: 55px;
+    height: 35px;
+    border: 1px solid #4f4f4f;
+    padding:0;
+    margin: 0 auto;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #444b57;
+    color: #fff;
+    font-size: 15px;
+    outline: none!important;
+}
+.btn:hover {
+    background-color: #747b85;
+}
